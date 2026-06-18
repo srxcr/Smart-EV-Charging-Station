@@ -59,3 +59,4 @@ You can test the simulation using two distinct interactive methods inside Proteu
 * Press **RB2** to initiate a physical E-Stop. The motor reverses immediately to release the connector, and the system shuts down.
 
 ## Circuit Diagram
+![image](https://github.com/srxcr/Smart-EV-Charging-Station/blob/48544c3c4929e53a11e8885f5c3cb95577bf4bfb/EVSchematic.png)
